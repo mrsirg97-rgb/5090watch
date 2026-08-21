@@ -6,23 +6,11 @@
       "source": "amazon_search",
       "product_id": "B0HBMWV1DG",
       "price": 4298,
-      "url": "https://www.amazon.com/FILWY-Graphics-3-8-Slot-Axial-tech-Patented/dp/B0HBMWV1DG/ref=sr_1_2?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-2",
+      "url": "https://www.amazon.com/FILWY-Graphics-3-8-Slot-Axial-tech-Patented/dp/B0HBMWV1DG/ref=sr_1_2?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-2",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
-    },
-    {
-      "title": "NVIDIA GeForce GeForce RTX 5090 32G GAMING TRIO OC 32GB GDDR7 PCI Express Gen 5 Graphics Card",
-      "retailer": "Best Buy",
-      "source": "bestbuy_search",
-      "product_id": "6616090",
-      "price": 4399.99,
-      "url": "https://www.bestbuy.com/product/msi-nvidia-geforce-geforce-rtx-5090-32g-gaming-trio-oc-32gb-gddr7-pci-express-gen-5-graphics-card-black/J3P7TX6Z3H",
-      "in_stock": true,
-      "stock_known": true,
-      "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ZOTAC GAMING GeForce RTX 5090 ARCTICSTORM AIO \u0026nbsp;| \u0026nbsp;The ZOTAC Store",
@@ -35,7 +23,7 @@
       "stock_known": true,
       "water_cooled": true,
       "watch_item": "Zotac ArcticStorm AIO",
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "MSI Suprim GeForce RTX 5090 Graphics Card RTX 5090 32G SUPRIM LIQUID SOC",
@@ -44,10 +32,10 @@
       "product_id": "14-137-916",
       "price": 4699.99,
       "url": "https://www.newegg.com/p/N82E16814137916",
-      "in_stock": true,
+      "in_stock": false,
       "stock_known": true,
       "water_cooled": true,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ROG Astral NVIDIA GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 Graphics Card",
@@ -59,7 +47,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Gaming RTX 5090 32G Ventus 3X OC Graphics Card (32GB GDDR7, 512-bit, Extreme Performance: 2452 MHz, DisplayPort x3 2.1a, HDMI 2.1b, NVIDIA Blackwell Architecture)",
@@ -67,11 +55,11 @@
       "source": "amazon_search",
       "product_id": "B0DT7JS6BG",
       "price": 4899,
-      "url": "https://www.amazon.com/MSI-Graphics-512-bit-Extreme-Performance/dp/B0DT7JS6BG/ref=sr_1_5?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-5",
+      "url": "https://www.amazon.com/MSI-Graphics-512-bit-Extreme-Performance/dp/B0DT7JS6BG/ref=sr_1_5?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-5",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "NVIDIA GeForce RTX 5090 32G Ventus 3X OC Gaming Graphics Card GDDR7 512-bit, Boost Frequency up to 2452 MHz, PCIe Gen 5, DLSS 4, DP 2.1 x 3, HDMI 2.1 x 1, ATX",
@@ -79,11 +67,11 @@
       "source": "amazon_search",
       "product_id": "B0DT6S77JK",
       "price": 4899.99,
-      "url": "https://www.amazon.com/MSI-GeForce-Graphics-512-bit-Frequency/dp/B0DT6S77JK/ref=sr_1_11?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-11",
+      "url": "https://www.amazon.com/MSI-GeForce-Graphics-512-bit-Frequency/dp/B0DT6S77JK/ref=sr_1_10?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-10",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Ventus 3X GeForce RTX 5090 OC Edition 32 GB GDDR7, PCI Express Gen 5, Core Clocks Extreme: 2452 MHz, CUDA CORES 21760 Units, Memory Speed 28 Gbps, Bundle with Dockztorm Hub",
@@ -91,11 +79,11 @@
       "source": "amazon_search",
       "product_id": "B0F3JW76Q6",
       "price": 4899.99,
-      "url": "https://www.amazon.com/Ventus-FeForce-5090-Express-Extreme/dp/B0F3JW76Q6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-3",
+      "url": "https://www.amazon.com/Ventus-FeForce-5090-Express-Extreme/dp/B0F3JW76Q6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-3",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Ventus 3X GeForce RTX 5090 OC Edition 32 GB GDDR7, PCI Express Gen 5, Core Clocks Extreme: 2452 MHz, CUDA CORES 21760 Units, Memory Speed 28 Gbps, Bundle with HDMI Cable",
@@ -103,11 +91,11 @@
       "source": "amazon_search",
       "product_id": "B0F3JSBT9M",
       "price": 4899.99,
-      "url": "https://www.amazon.com/Ventus-FeForce-5090-Express-Extreme/dp/B0F3JSBT9M/ref=sr_1_10?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-10",
+      "url": "https://www.amazon.com/Ventus-FeForce-5090-Express-Extreme/dp/B0F3JSBT9M/ref=sr_1_9?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-9",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Windforce GeForce RTX 5090 OC 32GB GDDR7 Graphic Card GPU GV-N5090WF3OC (Blackwell Architecture and DLSS, 3 Fans, Reinforced Structure, Server-Grade Thermal Conductive Gel) with HDMI Cable.",
@@ -115,11 +103,23 @@
       "source": "amazon_search",
       "product_id": "B0F29XB3C8",
       "price": 4899.99,
-      "url": "https://www.amazon.com/GIGABYTE-GV-N5090WF3OC-Architecture-Reinforced-Server-Grade/dp/B0F29XB3C8/ref=sr_1_8?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-8",
+      "url": "https://www.amazon.com/GIGABYTE-GV-N5090WF3OC-Architecture-Reinforced-Server-Grade/dp/B0F29XB3C8/ref=sr_1_7?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-7",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
+    },
+    {
+      "title": "NVIDIA GeForce GeForce RTX 5090 32G GAMING TRIO OC 32GB GDDR7 PCI Express Gen 5 Graphics Card",
+      "retailer": "Best Buy",
+      "source": "bestbuy_search",
+      "product_id": "12941298",
+      "price": 4899.99,
+      "url": "https://www.bestbuy.com/product/msi-nvidia-geforce-geforce-rtx-5090-32g-gaming-trio-oc-32gb-gddr7-pci-express-gen-5-graphics-card-black/J3P7TX6Z3H",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "GIGABYTE Gaming GeForce RTX 5090 Graphics Card GV-N5090GAMING OC-32GD",
@@ -128,10 +128,10 @@
       "product_id": "14-932-761",
       "price": 4899.99,
       "url": "https://www.newegg.com/p/N82E16814932761",
-      "in_stock": false,
+      "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "MSI Gaming GeForce RTX 5090 Graphics Card RTX 5090 32G GAMING TRIO OC",
@@ -143,7 +143,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "MSI Ventus GeForce RTX 5090 Graphics Card RTX 5090 32G VENTUS 3X OC",
@@ -155,7 +155,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ZOTAC ARCTICSTORM AIO GeForce RTX 5090 Graphics Card RTX 5090 ARCTICSTORM AIO",
@@ -168,7 +168,7 @@
       "stock_known": true,
       "water_cooled": true,
       "watch_item": "Zotac ArcticStorm AIO (Newegg)",
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "GIGABYTE AORUS GeForce RTX 5090 Graphics Card GV-N5090AORUSM ICE-32GD",
@@ -180,7 +180,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "[2025] HIDevolution ASUS ROG Zephyrus G16 GU605CX [White] 16\" WQXGA 240Hz OLED, 2.7 GHz Ultra 9-285H, RTX 5090, 64 GB LPDDR5X RAM, 2 x 2 TB PCIe SSD, Windows 11 Pro",
@@ -192,7 +192,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ROG Astral NVIDIA GeForce RTX 5090 32GB GDDR7 BTF OC Edition Gaming Graphics Card, 3.8-Slot, 1000W Support, 3 Year Warranty",
@@ -200,11 +200,11 @@
       "source": "amazon_search",
       "product_id": "B0FJVQYGQW",
       "price": 5319.99,
-      "url": "https://www.amazon.com/ASUS-Overclocked-Dual-Fan-Graphics-Warranty/dp/B0FJVQYGQW/ref=sr_1_13?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-13",
+      "url": "https://www.amazon.com/ASUS-Overclocked-Dual-Fan-Graphics-Warranty/dp/B0FJVQYGQW/ref=sr_1_12?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-12",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Gaming RTX 5090 32G SUPRIM Liquid SOC Graphics Card (32GB GDDR7, 512-bit, Extreme Performance: 2580 MHz, DisplayPort x3 2.1a, HDMI 2.1b, NVIDIA Blackwell Architecture)",
@@ -212,11 +212,11 @@
       "source": "amazon_search",
       "product_id": "B0DT7K9VV3",
       "price": 5499.99,
-      "url": "https://www.amazon.com/MSI-Graphics-512-bit-Extreme-Performance/dp/B0DT7K9VV3/ref=sr_1_14?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-14",
+      "url": "https://www.amazon.com/MSI-Graphics-512-bit-Extreme-Performance/dp/B0DT7K9VV3/ref=sr_1_15?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-15",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": true,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "PNY NVIDIA GeForce RTX 5090 Graphic Card 32 GB GDDR7 Full-height",
@@ -228,7 +228,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "NVIDIA Founder Edition GeForce RTX 5090 Graphics Card 900-1G144-2530-000",
@@ -240,7 +240,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ZOTAC ARCTICSTORM AIO Liquid Cooling GeForce RTX 5090 32GB GDDR7 PCI Express 5.0",
@@ -253,7 +253,7 @@
       "stock_known": true,
       "water_cooled": true,
       "watch_item": "Zotac ArcticStorm AIO (Amazon)",
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Gigabyte AORUS GeForce RTX 5090 MASTER ICE 32G GV-N5090AORUSM ICE-32GD GDDR7 video card",
@@ -265,7 +265,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ASUS ROG Astral GeForce RTX 5090 Edition 20 (PCIe 5.0, 32GB GDDR7, HDMI/ DisplayPort 2.1, 4-fan, curved-screen AMOLED display, liquid metal GPU cooling, dual power input up to 800W)",
@@ -277,7 +277,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": true,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "ASUS ROG Astral GeForce RTX 5090 Graphics Card ROG-ASTRAL-RTX5090-O32G-WHITE",
@@ -289,7 +289,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     },
     {
       "title": "Gaming RTX 5090 32G Lightning Z Graphics Card (32GB GDDR7, 512-bit, Extreme Performance: 2775 MHz, DisplayPort x3 2.1a, HDMI 2.1b, NVIDIA Blackwell Architecture)",
@@ -297,11 +297,11 @@
       "source": "amazon_search",
       "product_id": "B0GL51ZPSV",
       "price": 6999.99,
-      "url": "https://www.amazon.com/msi-RTX-5090-32G-Performance/dp/B0GL51ZPSV/ref=sr_1_15?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpoiIK6oGEK5r6wo6D2FQOF923LsZWKTcov3Cw5anrB1jTlyMiglgeorJu0L8vm6_N12qlWaV0ZniSlCEM1Ah0X-3-N58YlJEM4RLnjJAscQOrn09jM7RK2dnVzuNlFCxBdDyyhBSRZjOMREwc52nvWEg.EINySHkYFllh_8k9pTyfgYOwqgOTR4gbzTKJtsDb-uI\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787328001\u0026sr=8-15",
+      "url": "https://www.amazon.com/msi-RTX-5090-32G-Performance/dp/B0GL51ZPSV/ref=sr_1_14?dib=eyJ2IjoiMSJ9.4qu5s6XBfgRm4VrIf6a9fDeWqc7vyuN0-68avVvlkgQXWzdwBkZHVv-34SIclFJgfFyvI2Bd5wMZ_mqT3CDpouMRtP5huTNtEjG4kDE1v5ntapY6_ynkxDvvOyoafy4g3V8C1GlDqxrVeK0ivre4hr73Hr5Y-FFDu5IX7PDaRBVWe8bhdl36fIV2IvQX8tmteJgN4Ze1i09NfSem7W0URVyVRaJ0PZ0QIG4utI2ZHF4.ytrHE46I4-3GyrpFuTlybs9KTm82SA1fuVMgU-maM_E\u0026dib_tag=se\u0026keywords=rtx+5090\u0026qid=1787335202\u0026sr=8-14",
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-08-21T17:00:01.082400209Z"
+      "scraped_at": "2026-08-21T18:00:01.751212132Z"
     }
   ],
   "errors": [
@@ -310,5 +310,5 @@
       "error": "microcenter search: no product anchors"
     }
   ],
-  "scraped_at": "2026-08-21T17:00:01.082400209Z"
+  "scraped_at": "2026-08-21T18:00:01.751212132Z"
 }
