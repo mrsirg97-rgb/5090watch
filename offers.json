@@ -10,7 +10,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "GIGABYTE WINDFORCE GeForce RTX 5090 Graphics Card GV-N5090WF3OC-32GD",
@@ -22,7 +22,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ROG Astral NVIDIA GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 Graphics Card",
@@ -34,7 +34,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "GIGABYTE Gaming GeForce RTX 5090 Graphics Card GV-N5090GAMING OC-32GD",
@@ -46,7 +46,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "MSI Gaming GeForce RTX 5090 Graphics Card RTX 5090 32G GAMING TRIO OC",
@@ -58,7 +58,19 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "MSI Suprim GeForce RTX 5090 Graphics Card RTX 5090 32G SUPRIM SOC",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "14-137-915",
+      "price": 4899.99,
+      "url": "https://www.newegg.com/p/N82E16814137915",
+      "in_stock": false,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "MSI Suprim GeForce RTX 5090 Graphics Card RTX 5090 32G SUPRIM LIQUID SOC",
@@ -70,7 +82,7 @@
       "in_stock": false,
       "stock_known": true,
       "water_cooled": true,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "GeForce RTX 5090 OC Graphics Card, 32GB GDDR7 28Gbps VRAM, 21760 CUDA Cores, 2467MHz Clock, PCIe 5.0, DLSS 4, Ray Tracing, 3x DP 2.1, 1x HDMI, 335x138x74mm, for 8K Gaming, AI \u0026 3D Content Creation",
@@ -82,7 +94,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "AORUS RTX 5090 AI Box Graphics Card - External GPU (32GB GDDR7, 512-bit, PCIe 5.0, HDMI/DP 2.1b, 240mm Radiator, Silent Fans, Direct-Coverage Copper Plate, Thunderbolt 5™)",
@@ -94,7 +106,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "NVIDIA GeForce GeForce RTX 5090 32G GAMING TRIO OC 32GB GDDR7 PCI Express Gen 5 Graphics Card",
@@ -106,7 +118,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "MSI Ventus GeForce RTX 5090 Graphics Card RTX 5090 32G VENTUS 3X OC",
@@ -118,7 +130,19 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "ZOTAC SOLID OC GeForce RTX 5090 Graphics Card RTX 5090 SOLID OC",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIBKFRM5Z5570",
+      "price": 5399.99,
+      "url": "https://www.newegg.com/p/N82E1689SIBKFRM5Z5570",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "TUF Gaming GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card | PCIe 5.0, HDMI/DP 2.1, 3.6-slot, Military-grade Components, Protective PCB Coating, Axial-tech Fans",
@@ -130,7 +154,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "GIGABYTE AORUS GeForce RTX 5090 Graphics Card GV-N5090AORUSM ICE-32GD",
@@ -142,7 +166,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ROG Astral GeForce RTX 5090 32GB GDDR7 White OC Edition Graphics Card | PCIe 5.0, HDMI/DP 2.1, 3.8-slot, 4-fan, Axial-tech Fans, Vapor Chamber, Phase-change GPU Thermal Pad",
@@ -154,7 +178,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card | PCIe 5.0, HDMI/DP 2.1, 3.8-slot, 4-fan, Axial-tech Fans, Vapor Chamber, Phase-change GPU Thermal Pad",
@@ -166,7 +190,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "PNY GeForce RTX 5090 OC 32GB 512-Bit GDDR7 DLSS 4.0 PCI Express 5.0 x16 Graphics Card VCG509032TFXPB1-O",
@@ -178,7 +202,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ZOTAC ARCTICSTORM AIO Liquid Cooling GeForce RTX 5090 32GB GDDR7 PCI Express 5.0",
@@ -191,7 +215,7 @@
       "stock_known": true,
       "water_cooled": true,
       "watch_item": "Zotac ArcticStorm AIO (Amazon)",
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Gaming Video Graphics Card",
@@ -203,7 +227,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "TUF Gaming GeForce RTX 5090 Triple Fan GPU, 32GB GDDR7, 3352 AI Tops, 28 Gbps, 512-bit, DLSS 4, AI Content Creation, Local LLM Inference, DP 2.1b x3, HDMI 2.1b x2, with GPU Holder",
@@ -215,7 +239,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ASUS ROG Astral GeForce RTX 5090 Graphics Card ROG-ASTRAL-RTX5090-O32G-WHITE",
@@ -227,7 +251,19 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "ASUS ROG Astral with Detachable GC-HPWR Adapter GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 ATX Graphics Card ROG-ASTRAL-RTX5090-O32G-BTF-GAMING",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIBKFRM5Y1926",
+      "price": 6299,
+      "url": "https://www.newegg.com/p/N82E1689SIBKFRM5Y1926",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "Gigabyte AORUS GeForce RTX 5090 MASTER ICE 32G GV-N5090AORUSM ICE-32GD GDDR7 video card",
@@ -239,7 +275,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "AORUS GeForce RTX 5090 Infinity 32G Graphics Card - 32GB GDDR7, 512bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DP 2.1b, 1 x HDMI 2.1b, DLSS 4, GV-N5090AORUS IF-32GD",
@@ -251,7 +287,19 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "GIGABYTE AORUS GeForce RTX 5090 STEALTH ICE 32G GDDR7 PCI Express 5.0 ATX Graphics Card GV-N5090AORUSM ICE-32GD",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIAGBAM217071",
+      "price": 6795.9,
+      "url": "https://www.newegg.com/p/N82E1689SIAGBAM217071",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ZOTAC ARCTICSTORM AIO GeForce RTX 5090 Graphics Card RTX 5090 ARCTICSTORM AIO",
@@ -264,19 +312,31 @@
       "stock_known": true,
       "water_cooled": true,
       "watch_item": "Zotac ArcticStorm AIO (Newegg)",
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
-      "title": "Gigabyte AORUS RTX 5090 AI BOX GV-N5090IXEB-32GD GDDR7 28Gbps Thunderbolt GV-N5090IXEB-32GD",
+      "title": "ASUS ROG Astral LC GeForce RTX 5090 32GB GDDR7 OC Edition ROG-ASTRAL-LC-RTX5090-O32G-GAMING DLSS 4.0 PCI Express 5.0 Graphics Card",
       "retailer": "Newegg",
       "source": "newegg_search",
-      "product_id": "9SIC6E1M519272",
-      "price": 7029.45,
-      "url": "https://www.newegg.com/p/N82E1689SIC6E1M519272",
+      "product_id": "9SIBYT0KFR9236",
+      "price": 6999,
+      "url": "https://www.newegg.com/p/N82E1689SIBYT0KFR9236",
       "in_stock": true,
       "stock_known": true,
-      "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "water_cooled": true,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "ASUS ROG Astral GeForce RTX 5090 Edition 20 (PCIe 5.0, 32GB GDDR7, HDMI/ DisplayPort 2.1, 4-fan, curved-screen AMOLED display, liquid metal GPU cooling, dual power input up to 800W)",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIBKFRM542224",
+      "price": 7999.99,
+      "url": "https://www.newegg.com/p/N82E1689SIBKFRM542224",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": true,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ASUS ProArt GeForce RTX 5090 Video Card ASUS PROART-RTX5090-O32G",
@@ -288,7 +348,7 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "ZOTAC SOLID  GeForce RTX 5090 32GB 512-Bit GDDR7 PCI Express 5.0 x16 DLSS 4.0 Video Card ZOTAC GEFORCE RTX 5090 32GB SOLID",
@@ -300,7 +360,19 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition ROG-ASTRAL-RTX5090-O32G-GAMING DLSS 4.0 PCI Express 5.0 Graphics Card",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIBZW0M5W1813",
+      "price": 8500,
+      "url": "https://www.newegg.com/p/N82E1689SIBZW0M5W1813",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     },
     {
       "title": "NVIDIA Founder Edition GeForce RTX 5090 Graphics Card 900-1G144-2530-000",
@@ -312,7 +384,19 @@
       "in_stock": true,
       "stock_known": true,
       "water_cooled": false,
-      "scraped_at": "2026-09-04T21:00:01.464038399Z"
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
+    },
+    {
+      "title": "MSI VANGUARD GeForce RTX 5090 Graphics Card RTX 5090 32G VANGUARD SOC",
+      "retailer": "Newegg",
+      "source": "newegg_search",
+      "product_id": "9SIBZW0M5W2403",
+      "price": 8800,
+      "url": "https://www.newegg.com/p/N82E1689SIBZW0M5W2403",
+      "in_stock": true,
+      "stock_known": true,
+      "water_cooled": false,
+      "scraped_at": "2026-09-04T22:00:02.039008476Z"
     }
   ],
   "errors": [
@@ -325,5 +409,5 @@
       "error": "microcenter search: no product anchors"
     }
   ],
-  "scraped_at": "2026-09-04T21:00:01.464038399Z"
+  "scraped_at": "2026-09-04T22:00:02.039008476Z"
 }
